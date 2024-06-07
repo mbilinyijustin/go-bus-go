@@ -1,0 +1,165 @@
+
+
+.header1{
+    display: flex;
+    height:55px;
+    padding-top: 10px;
+    padding-left: 20rem;
+
+}
+
+.header2{
+  margin-right: 50px;
+  margin-left: 60px;
+}
+
+.nav-item{
+  padding: 0;
+  margin: 0;
+}
+.nav-link{
+  font-size: 20px;
+  transition: color 0.3s;
+
+  
+}
+.nav-link:hover {
+  color:blue; 
+}
+
+ .header21{
+    font-size: 25px;
+    font-style: italic;
+    padding-left: 100px;
+    font-family: Verdana, sans-serif;
+} 
+
+ .header22{
+    background-color:white;
+} 
+
+ .header3{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+    position: relative;
+    background-image: url('D:\BOOKING ONLINE\IMAGES\21.jpg');
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  
+  } 
+  .header31{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-40%,-60%);
+    font-size: 40px;
+    /* padding-top: 300px;
+    padding-left: 10px; */
+    color:black;
+    margin-top: 40px;
+
+  }
+
+
+
+
+  .carousel-item img {
+    height:500px;
+  }
+
+  .header4{
+    margin-top:40px;
+    margin-left: 60px;
+    margin-right: 50px;
+    background-size: cover;
+  }
+  .header5{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .header61{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    overflow: hidden;
+  }
+  .header611{
+    animation: scroll 10s linear infinite;
+    white-space: nowrap;
+  }
+  @keyframes scroll {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+}
+
+  .icon{
+    font-size: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+  }
+  .card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    font-size: 40px;
+  }
+
+  .header6{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-bottom: 1rem;
+    background-color:white;
+    border: solid 2px;
+    border-radius: 10rem;
+
+  }
+  .header72{
+    height: 80px;
+    margin-top: 40px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .header73{
+    padding-left: 17rem;
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    padding-right: 10px;
+    font-style: italic;
+    
+  }
+  .header71{
+    font-size: 20px;
+    font-family: Verdana, sans-serif;
+    font-style: italic;
+  } */
+  .logo{
+    position: absolute;
+    left: 0;
+  }
+  .logoo{
+    position: absolute;
+    right: 0;
+
+  } 
+
+
+
+
+
+
+
+
+
+  
+

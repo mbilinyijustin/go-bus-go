@@ -1,0 +1,98 @@
+/* registration form starts here */
+.bg-body{
+    background-color: black;
+}
+
+/* login */
+.logo h2 {
+  font-size: 24px; /* Decrease font size */
+}
+.box-login {
+  width: 80%; /* Set width as 80% of the parent container */
+  margin: 0 auto; /* Center align the box */
+}
+.form-group {
+  margin-bottom: 20px; /* Increase space between form groups */
+}
+.input-icon {
+  position: relative;
+}
+.input-icon input {
+  padding-left: 40px; /* Add space for icon */
+}
+.input-icon i {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+ /* Custom Styles */
+ .navbar {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  .navbar-brand {
+    margin-right: auto;
+  }
+  .sidebar {
+    position: fixed;
+    top: 56px; /* Height of the navbar */
+    left: 0;
+    bottom: 0;
+    width: 100px; /* Adjusted width */
+    background-color: #222; /* Light black background */
+    padding-top: 50px;
+    z-index: 1000;
+  }
+  .sidebar .nav-link {
+    text-align: center;
+  }
+  .sidebar-link{
+    margin-top: 5px;
+  }
+  .panel-body {
+    padding: 30px;
+  }
+  .StepTitle {
+    margin-top: 20px;
+  }
+  .main-content {
+    margin: 50px auto; /* Center alignment */
+    width: 80%; /* Adjusted width */
+  }
+  .form-group {
+    margin-bottom: 20px; /* Spacing between form elements */
+  }
+  .btn-primary {
+    margin-top: 32px; /* Align button with inputs */
+  }
+  .a-btn {
+    color: #fff;
+    text-decoration: none;
+  }
+  .a-btn:hover {
+    text-decoration: none;
+    color: blue;
+  }
+  .btn:hover {
+    background: #fff;
+    color: blue;
+  }
+  i:hover{
+      color: blue;
+      background-color: #fff;
+  }
+  .booking-header{
+    margin-bottom: 20px;
+  }
+
+
+
+
+  
+
+
+  
